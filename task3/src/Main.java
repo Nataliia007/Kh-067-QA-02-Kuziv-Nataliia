@@ -1,10 +1,6 @@
-public class Main {
-    public Main() {
-    }
-
-    public static void main(String[] args) {
-        private String groupName;
-        private int StartYear;
-        private int endYear;
-        private String [] StudentArray;
+public class Main{
+    UniversityGroup universityGroup  = new UniversityGroup( "KHQA", 2022);
+    UniversityGroup universityGroup  = new UniversityGroup( "lVQA", 2022);
+    String[] studentsArray = new studentsArray[3];
+}
 
